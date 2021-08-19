@@ -30,8 +30,8 @@ Mobile view:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rajulkoshta/frontend-mentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/rajulkoshta/frontend-mentor)
+- Live Site URL: [live site](https://your-live-site-url.com)
 
 ### Built with
 
