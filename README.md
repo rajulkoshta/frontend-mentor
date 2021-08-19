@@ -31,7 +31,7 @@ Mobile view:
 ### Links
 
 - Solution URL: [solution](https://github.com/rajulkoshta/frontend-mentor)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://rajulkoshta.github.io/frontend-mentor-challenges/)
 
 ### Built with
 
